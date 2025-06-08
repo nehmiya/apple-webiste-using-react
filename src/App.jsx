@@ -6,6 +6,7 @@ import SecondSection from './Components/Section/SecondSection.jsx';
 import ThirdSection from './Components/Section/ThirdSection.jsx';
 import FouthSection from './Components/Section/FouthSection.jsx';
 import FifthSection from './Components/Section/FifthSection.jsx';
+import SixthSection from './Components/Section/SixthSection.jsx';
 import "./App.css";
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
       <ThirdSection/>
       <FouthSection/>
       <FifthSection/>
+      <SixthSection/>
       <Footer />
     </>
   );
