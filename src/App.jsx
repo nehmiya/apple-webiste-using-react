@@ -4,6 +4,7 @@ import Alert from './Components/Alert/Alert.jsx';
 import FirstSection from './Components/Section/FirstSection.jsx';
 import SecondSection from './Components/Section/SecondSection.jsx';
 import ThirdSection from './Components/Section/ThirdSection.jsx';
+import FouthSection from './Components/Section/FouthSection.jsx';
 import "./App.css";
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <FirstSection />
       <SecondSection/>
       <ThirdSection/>
+      <FouthSection/>
       <Footer />
     </>
   );
